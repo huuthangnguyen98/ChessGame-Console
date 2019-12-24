@@ -1,0 +1,1 @@
+Vi file nhac wav kha nang nen bon em khong the gui duoc, vi the game se khong co nhac nen. Mong thay thong cam.
